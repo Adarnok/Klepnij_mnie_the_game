@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\midziegi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\midziegi\\.nuget\\packages"
+    ]
+  }
+}
